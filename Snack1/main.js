@@ -65,4 +65,4 @@ zucchine.forEach(object => {
   return sum
 })
 
-console.log(object);
+console.log(sum);
